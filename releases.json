@@ -1,0 +1,35 @@
+[
+  {
+    "version": "1.0.0",
+    "title": "Initial Release",
+    "date": "16/02/2022",
+    "summary": "This is the initial release of Celatone with support for [CosmWasm](https://cosmwasm.com) on [Osmosis](https://osmosis.zone) mainnet and testnet",
+    "sections": [
+      {
+        "title": "🔍 Search Codes and Contracts",
+        "description": "With Celatone, users can find and view all information related to a code or contract in a single page.\\nThis includes deployment information, historical transactions, assets held, as well as IBC related details",
+        "video": ""
+      },
+      {
+        "title": "📤 Store code and instantiate contracts",
+        "description": "Users and developers can upload wasm code and instantiate contracts through our UI in one seamless flow. No more having to use the CLI, implement custom scripts, or go through transaction logs.",
+        "video": ""
+      },
+      {
+        "title": "📝 Query, Execute, Migrate",
+        "description": "Celatoen allows user to easily query contract data and send transactions to contract without having to write a single line of code. Our interface automatically fetches and shows all of the methods exposed. Users can also easily resend previously executed transactions through their wallet.",
+        "video": ""
+      },
+      {
+        "title": "🖥️ Public Projects",
+        "description": "For mainnet network, we also have a public projects section shwocasing the protocols and projects deployed on the chain, along with their codes and contracts.",
+        "video": ""
+      },
+      {
+        "title": "🗂️ Code and contract rganization",
+        "description": "Save important codes and contracts in your own custom lists and folders. For each code or contract, you can also add custom names, description, and tags for even better searchability.",
+        "video": ""
+      }
+    ]
+  }
+]
